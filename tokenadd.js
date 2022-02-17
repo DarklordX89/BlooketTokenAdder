@@ -1,4 +1,4 @@
-accname = prompt('Enter your blooket username');tokensamount = prompt('How many tokens do you want (max 500 daily)');fetch("https://api.blooket.com/api/users/addtokens", {
+accname = prompt('Enter your blooket username');tokensamount = prompt('How many tokens do you want ;fetch("https://api.blooket.com/api/users/addtokens", {
   "headers": {
     "accept": "application/json, text/plain, */*",
     "accept-language": "en-US,en;q=0.9",
